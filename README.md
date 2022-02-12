@@ -16,7 +16,6 @@ Dispositivo capaz de transformar las ondas sonodas a colores de luces LED a trav
 | Regulador de voltaje | 1 | $3.00 |
 
 ## Descripción
-### Moverse en el espacio
 El funcionamiento de este proyecto parte de la línea de alimentación que se suministra mediante un cable USB de la PC hacia la placa de Arduino NANO, pero si se llegase a conectar una fuente externa que superen los 5V.
 Se dispondrá del modulo de detector de sonido, lo cual, esto proporcionará una señal analógica al Arduino, que podemos usar para encender inteligentemente las luces RGB. 
 
