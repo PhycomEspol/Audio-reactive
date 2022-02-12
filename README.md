@@ -20,9 +20,9 @@ El funcionamiento de este proyecto parte de la línea de alimentación que se su
 Se dispondrá del modulo de detector de sonido, lo cual, esto proporcionará una señal analógica al Arduino, que podemos usar para encender inteligentemente las luces RGB. 
 
 <a href="url"><img src="assets/diagrama.png" align="center" alt="diagrama" height="350" width="600" ></a>
-<a href="url"><img src="assets/digrama-proteus.jpeg" align="right" alt="logo" height="300" width="350" ></a>
 
 ## Diagrama
+<a href="url"><img src="assets/digrama-proteus.jpeg" align="right" alt="logo" height="300" width="600" ></a>
 -------------------------
 -------------------------
 -------------------------
