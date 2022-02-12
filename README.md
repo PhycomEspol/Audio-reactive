@@ -31,6 +31,11 @@ Se dispondrá del modulo de detector de sonido, lo cual, esto proporcionará una
 -------------------------
 -------------------------
 -------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
 
 ## Instalación e implementación
 Teniendo en cuenta las conexciones ya realizadas según el diagrama, se procede a subir el código ubicado en la carpeta `script_arduino_audio_reactive`.
