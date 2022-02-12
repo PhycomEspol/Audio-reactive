@@ -11,7 +11,7 @@ Dispositivo capaz de transformar las ondas sonodas a colores de luces LED a trav
 | Modulo de sonido  | 1 | $20.00 |
 | Protoboard | 1 | $3.00 |
 | Baterias 9V | 1 | $3.00 |
-| Jumpers | 20 | $1.00 |
+| Jumpers | 20 | $0.10 |
 | LEDS RGB | 1 | $5.00 |
 | Regulador de voltaje | 1 | $3.00 |
 
