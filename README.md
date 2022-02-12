@@ -30,7 +30,7 @@ Para la implementación del circuito en proteus pues se usaron los siguientes co
 Teniendo en cuenta las conexciones ya realizadas según el diagrama, se procede a subir el código ubicado en la carpeta `script_arduino_audio_reactive`.
 - Instalar las librerias necesarias para la compilación correcta en este caso: `FastLED`.
 - Se debe subir le código a un arduino de tipo Arduino Nano R3.
-- Una vez el codigo ya compliado y subo al Arduino, se conecta a la fuente de energia.
+- Una vez el codigo ya compliado y subido al Arduino, se conecta a la fuente de energia.
 
 
 
