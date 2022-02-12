@@ -21,7 +21,7 @@ Se dispondrá del modulo de detector de sonido, lo cual, esto proporcionará una
 
 <a href="url"><img src="assets/diagrama.png" align="center" alt="diagrama" height="350" width="600" ></a>
 
-## Diagrama
+## Simulación (Proteus)
 <a href="url"><img src="assets/digrama-proteus.jpeg" align="center" alt="logo" height="400" width="800" ></a>
 
 Para la implementación del circuito en proteus pues se usaron los siguientes componentes como el “sound detector”, el Arduino NANO, el led RGB y adicionalmente el circuito integrado ML2596, lo cual no se encontraba en librería, pero se lo pudo crear a partir del datasheet de dicho circuito. En primera lugar, se uso el Arduino Nano, por su tamaño y la cantidad de pines necesarios que se iba a usar en el proyecto, también se escogió el detector de sonido que permitirá amplificar el volumen y entregara una señal analógica que posteriormente estará guiado hacia el Arduino, luego el Arduino procesa esa información y tendrá como salida la señal del led para que se encienda, este funcionamiento se dará de manera eficiente cuando el circuito integrado ML2596 permita regular el voltaje para que los componentes del detector de sonido y del Arduino trabajen de la forma más optima.
