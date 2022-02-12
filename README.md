@@ -1,6 +1,6 @@
 # Audio-reactive
 
-<a href="url"><img src="assets/logo.jpg" align="right" alt="logo" height="300" width="350" ></a>
+<a href="url"><img src="assets/logo.jpg" align="right" alt="logo" height="250" width="350" ></a>
 
 Dispositivo capaz de transformar las ondas sonodas a colores de luces LED a través de un Arduino Nano.
 
